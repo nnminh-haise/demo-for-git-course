@@ -1,4 +1,4 @@
-def sqr(value): return value * value
+def square(value): return value * value
 
 
 print("From Github")
